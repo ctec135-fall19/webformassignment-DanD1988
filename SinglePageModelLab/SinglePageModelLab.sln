@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageModel", "SinglePageModel\SinglePageModel.csproj", "{89AD023D-466C-4094-8A42-9076A11B91B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageModel", "SinglePageModel\SinglePageModel.csproj", "{D65DCF97-37A6-43D4-BFCC-CA69FFF67212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "..\AutoLotDAL\AutoLotDAL.csproj", "{76EBA30B-7574-4562-9746-E0EDC6A31E78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{89AD023D-466C-4094-8A42-9076A11B91B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89AD023D-466C-4094-8A42-9076A11B91B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89AD023D-466C-4094-8A42-9076A11B91B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89AD023D-466C-4094-8A42-9076A11B91B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65DCF97-37A6-43D4-BFCC-CA69FFF67212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65DCF97-37A6-43D4-BFCC-CA69FFF67212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65DCF97-37A6-43D4-BFCC-CA69FFF67212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65DCF97-37A6-43D4-BFCC-CA69FFF67212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
