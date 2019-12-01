@@ -1,5 +1,4 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SinglePageModel.Default" %>
-
 <%@ Import Namespace="AutoLotDAL.Models" %>
 <%@ Import Namespace="AutoLotDAL.DataOperations" %> 
 
